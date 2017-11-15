@@ -3,10 +3,12 @@ Flashアニメ（swfファイル）をテクスチャーアトラスにコンバ
 
 ## Description
 Flashアニメ（swfファイル）をUnityにテクスチャーアトラスで持ってこれないかと思い作ったツールです。  
-SWFアニメをUnityのSprite（Multiple)化したい時用です。
+SWFアニメをUnityのSprite（Multiple)化したい時用です。  
 swfをアトラス化するので、AS3やボーンツールを使ったアニメでもアトラス化する事ができます。  
 
-フレーム数が多いものやステージサイズが大きいものには向いてませんので、小さなアクションをAnimateで作りたい時などにお使いください。
+フレーム数が多いものやステージサイズが大きいものには向いてませんので、小さなアクションをAnimateCCで作りSprite（Multiple)で連番化したい時などにお使いください。  
+それ以外のものはUnityと連携するAnimateCCのテクスチャーアトラス形式出力を作るか、他アニメツール（SpineやAnima2d）などで制作されるなど検討ください。
+
 
 ## Requirement
 Windows  
