@@ -7,7 +7,8 @@ SWFアニメをUnityのSprite（Multiple)化したい時用です。
 swfをアトラス化するので、ActionScriptやボーン(インバースキネマティック)を使ったアニメでもアトラス化する事ができます。  
 
 フレーム数が多いものやステージサイズが大きいものには向いておりません。  
-※AnimateCCには、AnimateCC上で作ったアニメをテクスチャーアトラスとjsonに書き出してUnityにもっていける機能がついています
+※AnimateCCには、AnimateCC上で作ったアニメをテクスチャーアトラスとjsonに書き出してUnityにもっていける機能がついています。
+ActionScriptは無理ですが、他ボーン(インバースキネマティック)等もちろん有効です。
 
 AnimateCCで作ったものを単純にSprite（Multiple)として使いたい、  
 SWFデータだけ残っていて元Flaファイルがない等の時に有効なツールです。
